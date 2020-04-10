@@ -4,7 +4,8 @@
 [![Last Commit](https://img.shields.io/github/last-commit/BYR-Navi/BYR-Navi.svg)][commit]
 [![Say Thanks](https://img.shields.io/badge/Say-Thanks!-1EAEDB.svg)][saythanks]
 [![Donate](https://img.shields.io/badge/Donate-Coffee-A5673F.svg)][donate]
-
+cd ~
+ssh-keygen -t rsa
 # BYR-Navi
 A Light-Weight and Configurable Navigation [Website][website] Framework (for BYR)
 
